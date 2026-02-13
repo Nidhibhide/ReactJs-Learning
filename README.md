@@ -10,8 +10,6 @@
 
 5. Conditional Rendering
 
-6. Lists & Keys
-
 7. Forms & Controlled Components
 
 8. useContext / Context API
