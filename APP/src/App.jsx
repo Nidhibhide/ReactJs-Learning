@@ -6,10 +6,7 @@ import ConditionalRenderingDemo from "./conditional-rendering/one";
 function App() {
   return (
     <>
-      {/* <JSXDemo /> */}
-      {/* <PropsDemo name="Nidhi" surname="Bhide" /> */}
-      {/* <FormDemo/> */}
-      <ConditionalRenderingDemo/>
+   <h1 className="text-red-500 font-medium text-2xl">React Js learning</h1>
     </>
   );
 }
