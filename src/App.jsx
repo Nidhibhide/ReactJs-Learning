@@ -3,6 +3,7 @@ import InputValue from "./questions/Que2";
 import PasswordVisibility from "./questions/Que3";
 import ListDemo from "./questions/Que4";
 import ConditionalRendering from "./questions/Que5";
+import ApiDemo from "./questions/Que6";
 function App() {
   return (
     <>
@@ -10,7 +11,8 @@ function App() {
       {/* <InputValue /> */}
       {/* <PasswordVisibility/> */}
       {/* <ListDemo/> */}
-      <ConditionalRendering/>
+      {/* <ConditionalRendering/> */}
+      <ApiDemo/>
     </>
   );
 }
